@@ -1,0 +1,13 @@
+package-as: ViewerLog-Professions
+
+move-folders:
+  ViewerLog_Recette: ViewerLog_Recette
+  ViewerLog_Housing: ViewerLog_Housing
+
+
+ignore:
+  - .github
+  - .gitignore
+  - .gitattributes
+  - README
+  - README.md
