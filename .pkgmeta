@@ -1,8 +1,8 @@
 package-as: ViewerLog-Professions
 
 move-folders:
-  ViewerLog_Recette: ViewerLog_Recette
-  ViewerLog_Housing: ViewerLog_Housing
+  ViewerLog-Professions/ViewerLog_Recette: ViewerLog_Recette
+  ViewerLog-Professions/ViewerLog_Housing: ViewerLog_Housing
 
 
 ignore:

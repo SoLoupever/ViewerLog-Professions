@@ -19,7 +19,7 @@
 ## Category-zhTW: 物品欄
 
 ## X-Curse-Project-ID: 1766308
-## X-Wago-ID: 
+## X-Wago-ID: rN4rzAKD
 
 ## ── LOCALISATION ─────────────────────────────────────────────────
 locales\Locales_frFR.lua
